@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![LangChain Academy](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/66e9eba1020525eea7873f96_LCA-big-green%20(2).svg)
 
 ## Introduction
@@ -103,3 +104,7 @@ for i in {1..5}; do
 done
 echo "TAVILY_API_KEY=\"$TAVILY_API_KEY\"" >> module-4/studio/.env
 ```
+=======
+# Introduction-to-Langraph-Langchain-Academy-
+This is a course on langraph powered by Langchain Academy.
+>>>>>>> d7e688cc2e7e76f53001f0953aff4b7e9a9b2e14
